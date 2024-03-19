@@ -72,7 +72,7 @@ Na mapie możesz stawiać bloki: **cobblestone oraz drewno**, które znikają po
 
 ## Strefa Bez Elytr
 
-W tej strefie korzystanie z elytr jest **zablokowane**, ale trzeba **pamiętać**, że jeżeli masz pełny ekwipunek to elytra wypadnie na ziemie! W strefie **Strefie Bez Elytr**, każda osoba otrzymuje efekt **Strength 1**.
+W tej strefie korzystanie z elytr jest **zablokowane**, ale trzeba **pamiętać**, że jeżeli masz pełny ekwipunek to elytra wypadnie na ziemie! W **Strefie Bez Elytr**, każda osoba otrzymuje efekt **Strength 1**.
 
 Do **Strefy Bez Elytr** można się przeteleportować, używając komendy **/warp** i wybierając **Elytre**. 
 
@@ -118,7 +118,7 @@ Do **Skrzynek** można się przeteleportować wpisując **/warp** i wybierając 
 ![Skrzynki](/assets/boxpvp/boxpvp-skrzynki-1.png)
 
 ### Co znajduje się w skrzynkach
-W skrzynach można dropnąć przeróżne rzeczy, od totemów,fragmentów dusz po klucze i sety. **Wszystko** też jest zależne od skrzynki bo tym **Lepsza** skrzynka to też **Lepszy** drop.
+W skrzynach można dropnąć przeróżne rzeczy, od totemów,fragmentów dusz po klucze i sety. **Wszystko** też jest zależne od skrzynki bo tym **Lepsza** skrzynka to rónież **Lepszy** drop.
 
 ## Najważniejsze Komendy
 
