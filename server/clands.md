@@ -13,6 +13,8 @@
 - **/klan opusc** - Opuszczenie klanu.
 - **@[wiadomość]** - Łatwiejszy czat klanu. 
 
+## Dodatkowe Informacje
+
 ## Gui Klanu
 
 ### Informacje O Klanie 
@@ -24,3 +26,5 @@
 ### Ustawienia Klanu
 
 ### Skarbie Klanu 
+
+## Topki Klanów
