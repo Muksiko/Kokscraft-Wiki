@@ -17,23 +17,23 @@ Na serwerze jest możliwość **stworzenia** lub **dołączenia** do klanu. Moż
 ## Dodatkowe Informacje
 - **TAG** klanu może zawierać od 2-5 znaków. 
 - **NAZWA** klanu może zawierać od 6-24 znaków. 
-- **Koszt** założenia klanu to 1500 kokscoinow i 5000 rubinów. 
+- **KOSZT** założenia klanu to 1500 kokscoinow i 5000 rubinów. 
 - Aby dołączyć do klanu trzeba mieć conajmniej **10 level** na serwerze. 
 
 ## Gui Klanu
 
 ### Informacje O Klanie
 
-Informacje o klanie sprawdzisz **Najeżdżając** myszką na **Jasnozieloną Główkę** w GUI. Znajdziesz tam: 
+Informacje o klanie sprawdzisz, **Najeżdżając** myszką na **Jasnozieloną Główkę** w GUI. Znajdziesz tam: 
 
 ![Informacje](/assets/klany/klan-informacje.png)
 
 ### Członkowie Klanu
-Będąc w GUI członków najeżdżając na danego gracza myszką, można sprawdzić ile kto wpłacił **Kokscoinow lub Rubinów** do klanu. **Właściciel** może nadawać/zabierać zastępcę. Obie te rangi mają możliwość usuwania graczy z klanu.  Aby sprawdzić musisz najechać myszką na **Brązową Główkę** w GUI.
+Będąc w GUI członków najeżdżając na danego gracza myszką, można sprawdzić ile kto wpłacił **Kokscoinow lub Rubinów** do klanu. **Właściciel** może nadawać/zabierać zastępcę. Obie te rangi mają możliwość usuwania graczy z klanu.  Aby sprawdzić statystki graczy musisz, kliknąć myszką na **Brązową Główkę** w GUI. 
 
 ### Poziomy Ulepszeń Klanów 
 
-W klanie jest możliwość **Ulepszania** poziomu boostu **Expa i mnożnika Rubinów**. Aby to zrobić wystarczy kliknąć w **Zieloną Główkę** lvl w GUI. Tą czynność może wykonać **Właściciel lub Zastępca** klanu.
+W klanie jest możliwość **Ulepszania** poziomu boostu **Expa i mnożnika Rubinów**. Aby to zrobić, wystarczy kliknąć w **Zieloną Główkę** lvl w GUI. Tą czynność może wykonać **Właściciel lub Zastępca** klanu.
 
 ### Ustawienia Klanu
 
@@ -69,10 +69,10 @@ Ustawienia klanu może zmienić tylko **Właściciel i Zastępca**.
 
 ## Topki Klanowe
 
-Na serwerze występują **Topki** klanowe, głowna topka jest na **hubie**, topki klanowe są z **Wbitego Xp'a Klanowego**, **Ilości Rubinów W Skarbcu** i **Ilości Kokscoinów**. 
+Na serwerze występują **Topki** klanowe, główna topka jest na **hubie**, topki klanowe są z **Wbitego Xp'a Klanowego**, **Ilości Rubinów W Skarbcu** i **Ilości Kokscoinów**. 
 
 ![Topki klanu](/assets/klany/klan-ss.png)
 
-Występują również **Topki** klanowe, na trybach jak bedwars czy skywars. Klan który będzie **znajdował** się w topce na koniec sezonu otrzymuje nagrody jak np: boostery dla klanów, kokscoiny.
+Występują również **Topki** klanowe, na trybach jak bedwars czy skywars. Klan, który będzie **znajdował** się w topce na koniec sezonu otrzymuje nagrody jak np: boostery dla klanów, kokscoiny.
 
 ![Topki klanu2](/assets/klany/klan-topki2.png)
